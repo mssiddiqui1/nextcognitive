@@ -2001,11 +2001,14 @@ a:hover.back-to-top {
 	}
 
 	.header .image-container {
-		margin-top: 1rem;
-		margin-left: 1.5rem;
+		display: block;
+		margin-top: 5rem;
+		margin-left: 10rem;
+	
 	}
 
 	.header .image-container .img-wrapper {
+
 		width: 630px;
 	}
 
