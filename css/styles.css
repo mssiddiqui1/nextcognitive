@@ -716,8 +716,8 @@ screen and (-ms-high-contrast: none) {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-	width: 4.4375rem;
-	height: 1.75rem;
+	width: 15.4375rem;
+	height: 9.75rem;
 }
 
 .navbar-custom .navbar-brand.logo-text {
@@ -2089,11 +2089,14 @@ a:hover.back-to-top {
 	}
 
 	.header .image-container {
-		margin-top: 1rem;
-		margin-left: 1.5rem;
+		display: block;
+		margin-top: 5rem;
+		margin-left: 10rem;
+
 	}
 
 	.header .image-container .img-wrapper {
+
 		width: 630px;
 	}
 
