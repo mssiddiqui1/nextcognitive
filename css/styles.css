@@ -1475,6 +1475,7 @@ screen and (-ms-high-contrast: none) {
 
 .footer .footer-col {
 	margin-bottom: 2.25rem;
+	margin-left: 100px;
 }
 
 .footer h4 {
@@ -2209,16 +2210,17 @@ a:hover.back-to-top {
 
 	/* Footer */
 	.footer .footer-col.first {
-		margin-right: 1.5rem;
+		margin-left: 0.5rem;
 	}
 
 	.footer .footer-col.middle {
-		margin-right: 0.75rem;
-		margin-left: 0.75rem;
+		/* margin-right: 0.75rem; */
+		margin-left: 3rem;
 	}
 
 	.footer .footer-col.last {
-		margin-left: 1.5rem;
+		/* margin-left: 2.5rem; */
+		margin-right: 0.5rem;
 	}
 
 	/* end of footer */
